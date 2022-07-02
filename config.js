@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6282221792667'] 
+global.owner = ['6287719424487'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerTio !Jangan chat owner kl gk perlu!'
-global.numberowner = '6282221792667'
-global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '082221792667'
-global.pulsa = '082221792667'
-global.gopay = 'Coming soon'
+global.nameowner = 'Owner Agungx !Jangan chat owner kl gk perlu!'
+global.numberowner = '6287719424487'
+global.instagram = 'https://instagram.com/yt.agungxx'
+global.github = 'https://github.com/Neonbotz'
+global.dana = 'Lupa No Dana'
+global.pulsa = 'Coming Soon'
+global.gopay = '081390413987'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.namebot = 'Sᴀᴄʜɪ-Bᴏᴛᴢ ♡︎'
+global.gc = 'https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV'
+global.web = 'https://Neonbotz.GH.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/539748d5965c0f64b47f8.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© TioXd'
+global.wm = '© Sachi ♡︎'
 global.watermark = wm
-global.wm2 = '© 2022-TioXd'
-global.wm3 = '© TioXd'
+global.wm2 = '© 2022-Sachi ♡︎'
+global.wm3 = '© Sachi ♡︎'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nBy TioXd'
+global.author = 'Bot WhatsApp\nBy Agungx'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
