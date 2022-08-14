@@ -283,8 +283,7 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `
-┌────「 *${ucapan}* 」───⬣
+let menuu = `┌────「 *${ucapan}* 」───⬣
 │⬡ Hai ${name}
 │⬡ Api : ${tag}
 │⬡ Limit : ${limit}
@@ -593,18 +592,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Selamat DiniHari"
+  res = "Selamat DiniHari 🌆"
   if (time >= 4) {
-    res = "Selamat Pagi"
+    res = "Selamat Pagi 🌄"
   }
   if (time > 10) {
-    res = "Selamat Siang"
+    res = "Selamat Siang 🌅"
   }
   if (time >= 15) {
-    res = "Selamat Sore"
+    res = "Selamat Sore 🌇"
   }
   if (time >= 18) {
-    res = "Selamat Malam"
+    res = "Selamat Malam 🌃"
   }
   return res
 }
