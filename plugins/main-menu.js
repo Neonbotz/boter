@@ -283,7 +283,16 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `*© BOTCAHX*`
+let menuu = `
+┌────「 *${ucapan}* 」───⬣
+│⬡ Hai ${name}
+│⬡ Api : ${tag}
+│⬡ Limit : ${limit}
+│⬡ Role : ${role}
+│⬡ Premium : ${global.prem ? 'Yes' : 'No'}
+│⬡ Date : ${week} ${date}
+│⬡ Time : ${wib}
+╰──────────────⬣`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
