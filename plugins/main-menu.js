@@ -283,7 +283,7 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `┌────「 * ${ucapan} * 」───⬣
+let menuu = `┌────「 * ${ucapan()} * 」───⬣
 │⬡ Hai ${name}
 │⬡ Api : ${tag}
 │⬡ Limit : ${limit}
